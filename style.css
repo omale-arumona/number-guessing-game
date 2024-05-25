@@ -36,3 +36,7 @@ input {
 button {
   padding: 5px;
 }
+
+.checkInput {
+  min-width: 60px;
+}
